@@ -80,7 +80,7 @@ Your IP should revert to your original ISP-assigned IP.
 
 Internet speed should return to baseline.
 
-🔒 Security Tips
+# Security Tips
 ✅ Always connect to Proton VPN using the official client.
 ✅ Verify Kill Switch is enabled in Proton VPN settings if you want to block traffic when disconnected.
 ✅ Be aware that free VPN servers may have slower speeds, especially during peak hours.
